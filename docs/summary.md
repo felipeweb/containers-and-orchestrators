@@ -1,6 +1,6 @@
 # O que são containers?
 
-Um container é um conjunto de um ou mais processos organizados isoladamente do sistema. Todos os arquivos necessários à execução de tais processos são fornecidos por uma imagem distinta. Na prática, os containers Linux são portáteis e consistentes durante toda a migração entre os ambientes de desenvolvimento, teste e produção. Essas características os tornam uma opção muito mais rápida do que os pipelines de desenvolvimento, que dependem da replicação dos ambientes de teste tradicionais.
+Um container é um conjunto de um ou mais processos organizados isoladamente do sistema. Todos os arquivos necessários à execução de tais processos são fornecidos por uma imagem distinta. Na prática, os containers são portáteis e consistentes durante toda a migração entre os ambientes de desenvolvimento, teste e produção. Essas características os tornam uma opção muito mais rápida do que os pipelines de desenvolvimento, que dependem da replicação dos ambientes de teste tradicionais.
 
 ![](what-is-a-container.png)
 
@@ -17,7 +17,7 @@ TODO
 
 # O que é Kubernetes
 
-O Kubernetes é uma plataforma open source que automatiza as operações dos containers Linux. Essa plataforma elimina grande parte dos processos manuais necessários para implantar e escalar as aplicações em containers. Em outras palavras, se você desejar agrupar em clusters os hosts executados nos containers Linux, o Kubernetes ajudará a gerenciar esses clusters com facilidade e eficiência. Esses clusters podem abranger hosts em clouds públicas, privadas ou híbridas.
+O Kubernetes é uma plataforma open source que automatiza as operações dos containers. Essa plataforma elimina grande parte dos processos manuais necessários para implantar e escalar as aplicações em containers. Em outras palavras, se você desejar agrupar em clusters os hosts executados nos containers, o Kubernetes ajudará a gerenciar esses clusters com facilidade e eficiência. Esses clusters podem abranger hosts em clouds públicas, privadas ou híbridas.
 
 # Por que o Kubernetes é essencial?
 

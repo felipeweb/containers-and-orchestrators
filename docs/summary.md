@@ -3,6 +3,7 @@
 Um container é um conjunto de um ou mais processos organizados isoladamente do sistema. Todos os arquivos necessários à execução de tais processos são fornecidos por uma imagem distinta. Na prática, os containers Linux são portáteis e consistentes durante toda a migração entre os ambientes de desenvolvimento, teste e produção. Essas características os tornam uma opção muito mais rápida do que os pipelines de desenvolvimento, que dependem da replicação dos ambientes de teste tradicionais.
 
 ![](what-is-a-container.png)
+
 Fonte: https://www.redhat.com/pt-br/topics/containers/whats-a-linux-container
 
 # O que é Docker?
@@ -25,6 +26,7 @@ Aplicações de produção abrangem múltiplos containers. que devem ser implant
 Também é necessário integrar o Kubernetes com os serviços de rede, armazenamento, segurança, telemetria e outros para oferecer uma infraestrutura de containers global.
 
 ![](kubernetes-diagram.png)
+
 Fonte: https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes
 
 # Demo Kubernetes
